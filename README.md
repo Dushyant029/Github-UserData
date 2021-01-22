@@ -2,7 +2,7 @@
 
 This is a simple responsive WebApp which shows Github IDs fetched from 'Github Profile' API.
 
-## Preview:
+## Preview: https://dushyant029.github.io/Github-UserData/
 
 ![image](https://user-images.githubusercontent.com/55031190/105529502-7d69ab80-5d0c-11eb-891d-32ca1d4232c5.png)
 
